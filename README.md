@@ -2,8 +2,6 @@ Welcome to Leo's tech blog :)
 
 # Table of Contents
 
-+ [](blogs/blog1.md)
-+ [](blogs/blog2.md)
 + [Screen Notes](blogs/t170927111550.md) 2017-09-27 screen; Linux
 + [Run Vertx App Programmatically](blogs/t170918001656.md) 2017-09-18 vertx; gradle; groovy
 + [Using docker on Windows](blogs/t170915221148.md) 2017-09-15 docker; windows
