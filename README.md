@@ -2,7 +2,28 @@ Welcome to Leo's tech blog :)
 
 # Table of Contents
 
++ [Install Applications on Windows with Chocolatey](blogs/t170727183610.md) 2017-07-27 chocolatey; install; windows
++ [Sharing Tmux Session between Multiple Users](blogs/t171108111610.md) 2017-11-08 tmux; session; user
++ [Python Project and Package Management with pipenv](blogs/t171106121912.md) 2017-11-06 pipenv; python; package
++ [Static vs Dynamic](blogs/t171105105223.md) 2017-11-05 static; dynamic; language
++ [VIM命令格式说明](blogs/t100625135711.md) 2010-06-25 Vim
++ [Powerful Application Launcher on Xfce](blogs/t130528113431.md) 2013-05-28 Xfce;exo-open
++ [Note about "Programming in Haskell"](blogs/t131216174627.md) 2013-12-16 Haskell
++ [基于gVim的暗色调翻译写作环境](blogs/t140317163640.md) 2014-03-17 Windows; Puppet; Translate; gVim; PDF
 + [Screen Notes](blogs/t170927111550.md) 2017-09-27 screen; Linux
++ [Run Emacs as Daemon](blogs/t171030182446.md) 2017-10-30 emacs; daemon; server
++ [Installation of Agilefant & Icescrum](blogs/t121110170839.md) 2012-11-10 agile
++ [Amazon EC2 Notes](blogs/t131025154315.md) 2013-10-25 amazon
++ [Build Web Server with Apache and Passenger](blogs/t140326143445.md) 2014-03-26 Web; Apache; Passenger
++ [Ruby on Rails Note](blogs/t140404120436.md) 2014-04-04 RoR
++ [Install Redmine on CentOS 6.4](blogs/t131030181122.md) 2013-10-30 CentOS;redmine
++ [Build CentOS VM on Ubuntu Server](blogs/t171024162828.md) 2017-10-24 virtualbox; vagrant; centos; ubuntu
++ [Debug Clojure App with Emacs on Ubuntu Server](blogs/t171024162459.md) 2017-10-24 clojure; cider; emacs; ubuntu
++ [Notes about Emacs](blogs/t130721232205.md) 2013-07-21 emacs
++ [Install and Update autojump and oh-my-zsh Behind a Firewall](blogs/t131022095622.md) 2013-10-22 ssh; Git; oh-my-zsh; autojump
++ [Speed up docker pull](blogs/t171016211158.md) 2017-10-16 docker; speed up
++ [Cmder和ConEmu笔记](blogs/t130128182753.md) 2013-01-28 ConEmu; TotalCMD; cmder
++ [Notes on Functional Python Programming](blogs/t161117171211.md) 2016-11-17 functional programming; python
 + [Run Vertx App Programmatically](blogs/t170918001656.md) 2017-09-18 vertx; gradle; groovy
 + [Using docker on Windows](blogs/t170915221148.md) 2017-09-15 docker; windows
 + [Python IDE based on vim](blogs/t170914153911.md) 2017-09-14 python; ide; vim
@@ -23,7 +44,6 @@ Welcome to Leo's tech blog :)
 + [Powershell Notes](blogs/t170803175148.md) 2017-08-03 powershell; windows
 + [Restart Network on Ubuntu](blogs/t170731140852.md) 2017-07-31 ubuntu; network; restart
 + [Scala中函数的4种定义方式](blogs/t170731003425.md) 2017-07-31 scala; function; lambda
-+ [Install Applications on Windows with Chocolatey](blogs/t170727183610.md) 2017-07-27 chocolatey; install; windows
 + [Manage Spark Jobs via API](blogs/t170725102650.md) 2017-07-25 spark; job; submit; web; rest; api
 + [vim Package Management on Windows](blogs/t170715223801.md) 2017-07-15 gvim; windows; package
 + [Define Command Alias in Windows Console](blogs/t170702130114.md) 2017-07-02 alias; windows; cmder
@@ -73,7 +93,6 @@ Welcome to Leo's tech blog :)
 + [容器应用自动更新](blogs/t161121200245.md) 2016-11-21 docker; git; submodule; jenkins
 + [CopyQ Notes](blogs/t161120173757.md) 2016-11-20 copyq
 + [Clone Git Repo in Jenkins Container](blogs/t161120152539.md) 2016-11-20 jenkins; git; ssh; credential
-+ [Notes on Functional Python Programming](blogs/t161117171211.md) 2016-11-17 functional programming; python
 + [Ubuntu 14.04 apt Update Failure](blogs/t161111114228.md) 2016-11-11 ubuntu; apt; update
 + [将node.js v0.10.40部署服务器升级到v4.4.7](blogs/t161115120550.md) 2016-11-06 node.js; ubuntu
 + [Use Matplotlib in Python 3 on Ubuntu](blogs/t161105083438.md) 2016-11-05 matplotlib; python3; ubuntu
@@ -460,7 +479,6 @@ Welcome to Leo's tech blog :)
 + [Awk Notes](blogs/t140410095838.md) 2014-04-10 awk
 + [Use Apt Fast to Speedup apt-get](blogs/t140409153003.md) 2014-04-09 apt-get; Linux; Ubuntu; apt-fast
 + [Linux Benchmarking](blogs/t140408170400.md) 2014-04-08 Linux; benchmark
-+ [Ruby on Rails Note](blogs/t140404120436.md) 2014-04-04 RoR
 + [Java Memory Schedule](blogs/t140404102033.md) 2014-04-04 Java; memory
 + [Groovy Develop Environment Based on GVM](blogs/t140403175002.md) 2014-04-03 gvm; groovy; java; jdk
 + [Linux System Log](blogs/t140402143204.md) 2014-04-02 Linux; log
@@ -471,13 +489,11 @@ Welcome to Leo's tech blog :)
 + [Run Script on Remote Host via SSH](blogs/t140327115808.md) 2014-03-27 SSH; Shell; Linux
 + [Install Fabric 1.8.3 Manually on Linux](blogs/t140326184711.md) 2014-03-26 Fabric; Python
 + [Delete Trailing Spaces with Vim](blogs/t140326144843.md) 2014-03-26 Vim
-+ [Build Web Server with Apache and Passenger](blogs/t140326143445.md) 2014-03-26 Web; Apache; Passenger
 + [Secure Shell基于密钥的连接过程](blogs/t140325200006.md) 2014-03-25 SSH; Linux
 + [Join Two Files Line to Line in Each Row](blogs/t140325114442.md) 2014-03-25 Linux; Text; paste
 + [Text Expansion in Vim](blogs/t140319171117.md) 2014-03-19 vim; text expansion
 + [Build Puppet Clusters with Vagrant](blogs/t140318162706.md) 2014-03-18 Puppet; Vagrant; VM
 + [Publish Blogs on Cnblogs.com](blogs/t140318085501.md) 2014-03-18 cnblogs; Python; xmlrpclib
-+ [基于gVim的暗色调翻译写作环境](blogs/t140317163640.md) 2014-03-17 Windows; Puppet; Translate; gVim; PDF
 + [Convert a Private Project on bitbucket.com to a github Public Project](blogs/t140312175101.md) 2014-03-12 git; bitbucket; github
 + [Fix Jenkins Startup and Access Failure on CentOS](blogs/t140311095843.md) 2014-03-11 Jenkins; Network; iptables
 + [Configure Hosts with Puppet](blogs/t140310182629.md) 2014-03-10 ProPuppet; Puppet; Linux
@@ -535,7 +551,6 @@ Welcome to Leo's tech blog :)
 + [Switch User Command in Linux](blogs/t131219083804.md) 2013-12-19
 + [Search String in Files in Vim](blogs/t131218145606.md) 2013-12-18 grep; vim; search
 + [Function of Getting Factors in Different Languages](blogs/t131217160802.md) 2013-12-17 functional programming
-+ [Note about "Programming in Haskell"](blogs/t131216174627.md) 2013-12-16 Haskell
 + [Haskell Interactive Development in Emacs](blogs/t131216113414.md) 2013-12-16 Haskell; emacs
 + [Note about "Yet Another Haskell Tutorial"](blogs/t131215212740.md) 2013-12-15 Haskell
 + [Haskell Command-line Application Building](blogs/t131215122240.md) 2013-12-15 command line;Haskell
@@ -580,20 +595,17 @@ Welcome to Leo's tech blog :)
 + [Subversion Backup and Restore](blogs/t131031174404.md) 2013-10-31 svn; backup; restore
 + [Tell Thunderbird Not to Wrap Lines When Sending Email](blogs/t131031104730.md) 2013-10-31 thunderbird;wrap
 + [Adding SSL certificates to Google Chrome on Linux Mint](blogs/t131031095741.md) 2013-10-31 chrome;goagent;ubuntu;ssl
-+ [Install Redmine on CentOS 6.4](blogs/t131030181122.md) 2013-10-30 CentOS;redmine
 + [Resolve Failure of apt-get Installation](blogs/t131030142917.md) 2013-10-30 Mint;apt-get
 + [Setup a Simple HTTP Proxy Server](blogs/t131030142058.md) 2013-10-30 linux; http;proxy
 + [Running GUI Application Remotely over SSH Session](blogs/t131029200018.md) 2013-10-29 GUI;Xll
 + [Bug Tracker](blogs/t131029092424.md) 2013-10-29
 + [Use Templates in Thunderbird](blogs/t131028104414.md) 2013-10-28 thunderbird;template
-+ [Amazon EC2 Notes](blogs/t131025154315.md) 2013-10-25
 + [Input Chinese Characters in Emacs Org Mode](blogs/t131024152429.md) 2013-10-24 emacs; org mode; Chinese characters
 + [FTP Server on Linux](blogs/t131024094321.md) 2013-10-24 authorization;ftp;upload
 + [GTD Workflow based on Emacs](blogs/t131023102807.md) 2013-10-23 emacs; org mode
 + [Configuration of Org Mode Files in Emacs](blogs/t131022204307.md) 2013-10-22 config; emacs; org mode
 + [Use Reminder in Emacs](blogs/t131022170938.md) 2013-10-22 emacs
 + [Remove All Subversion Unversoned Files and Directories Automatically](blogs/t131022113552.md) 2013-10-22 SVN;shell;cut
-+ [Install and Update autojump and oh-my-zsh Behind a Firewall](blogs/t131022095622.md) 2013-10-22 ssh; Git; oh-my-zsh; autojump
 + [Calculate PI in 3 Languages Dynamically](blogs/t131018165217.md) 2013-10-18 clojure; Java; groovy; time
 + [Run String as Code Dynamically](blogs/t131017210630.md) 2013-10-17
 + [Access, Modify, Change Time of Linux File](blogs/t131017110919.md) 2013-10-17 linux;time
@@ -686,7 +698,6 @@ Welcome to Leo's tech blog :)
 + [Open Recent Documents in Mint Xfce 14](blogs/t130725130223.md) 2013-07-25 Xfce
 + [Build Erlang Application with Rebar](blogs/t130724165328.md) 2013-07-24 erlang;rebar
 + [Clipboard Manager on Xfce](blogs/t130722180846.md) 2013-07-22 Xfce;clip
-+ [Notes about Emacs](blogs/t130721232205.md) 2013-07-21 emacs
 + [Zip Directories with/without Root Directory](blogs/t130719144931.md) 2013-07-19 Ant;zip
 + [Start Jenkins Server with Specified Home Directory](blogs/t130719104345.md) 2013-07-19 environment variables;jenkins
 + [Jenkins Command Line Usage](blogs/t130719083745.md) 2013-07-19 command line;jenkins
@@ -745,7 +756,6 @@ Welcome to Leo's tech blog :)
 + [Note about Cobertura](blogs/t130529145502.md) 2013-05-29 cobertura;Java
 + [Goagent 3.0.1 on Mint 14](blogs/t130529081941.md) 2013-05-29 linux;Mint;goagent
 + [Unit Test with JUnit and Ant](blogs/t130528185513.md) 2013-05-28 JUnit;classpath;Java;Ant
-+ [Powerful Application Launcher on Xfce](blogs/t130528113431.md) 2013-05-28 Xfce;exo-open
 + [Build Clojure Develop Environment](blogs/t130526110434.md) 2013-05-26 clojure; leiningen; chocolatey
 + [Xfce is a Good Desktop Choice](blogs/t130525055757.md) 2013-05-25 Xfce;linux;Mint
 + [Use Lubuntu Desktop on Ubuntu 12.04](blogs/t130524174310.md) 2013-05-24 ubuntu; desktop
@@ -832,7 +842,6 @@ Welcome to Leo's tech blog :)
 + [expect编程参考资源](blogs/t130205160056.md) 2013-02-05 expect
 + [ConcurrentLinkedQueue vs LinkedBlockingQueue](blogs/t130204151243.md) 2013-02-04 队列;Java;阻塞;并发
 + [用expect做自动运行脚本](blogs/t130201160330.md) 2013-02-01 expect;linux
-+ [Cmder和ConEmu笔记](blogs/t130128182753.md) 2013-01-28 ConEmu; TotalCMD; cmder
 + [计算成本图像演示方法的改进](blogs/t130127132736.md) 2013-01-27 Robert Sedgewick;algorithm
 + [BinarySearchST计算成本的测试代码](blogs/t130126231249.md) 2013-01-26 Robert Sedgewick;algorithm
 + [键盘插拔对用户登录的影响实验](blogs/t130125072710.md) 2013-01-25 登录;usb;server;standard IO
@@ -897,7 +906,6 @@ Welcome to Leo's tech blog :)
 + [Ruby笔记](blogs/t121204081907.md) 2012-12-04 ruby
 + [Windows Server FTP工具](blogs/t121119145129.md) 2012-11-19 Windows;ftp
 + [VirtualBox使用笔记](blogs/t121113104147.md) 2012-11-13 VirtualBox
-+ [Installation of Agilefant & Icescrum](blogs/t121110170839.md) 2012-11-10 agile
 + [Android Hello World程序开发过程](blogs/t121108201411.md) 2012-11-08 android
 + [演示切换屏幕控制序列的程序](blogs/t121108100435.md) 2012-11-08 Java;control sequence
 + [Shortcut of Vimium](blogs/t121108093029.md) 2012-11-08 vimium;shortcut;chrome
@@ -1275,7 +1283,6 @@ Welcome to Leo's tech blog :)
 + [VIM文本格式转换一例](blogs/t100706141019.md) 2010-07-06 转换;格式;Vim
 + [为VIM添加Python扩展](blogs/t100629140011.md) 2010-06-29 Python;Vim
 + [第一行为文件名保存的文件的实现方法（VIM版）](blogs/t100627135846.md) 2010-06-27 脚本;Vim
-+ [VIM命令格式说明](blogs/t100625135711.md) 2010-06-25 Vim
 + [UML中关联(association)和依赖(dependency)的区别](blogs/t100617110050.md) 2010-06-17 UML;关联;依赖
 + [Hoekey使用笔记](blogs/t100613114321.md) 2010-06-13 Hoekey
 + [Eclipse带参数调试的方法](blogs/t100604110230.md) 2010-06-04 调试;参数;Eclipse
