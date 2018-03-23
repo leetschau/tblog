@@ -2,15 +2,83 @@ Welcome to Leo's tech blog :)
 
 # Table of Contents
 
-+ [Install Applications on Windows with Chocolatey](blogs/t170727183610.md) 2017-07-27 chocolatey; install; windows
-+ [Sharing Tmux Session between Multiple Users](blogs/t171108111610.md) 2017-11-08 tmux; session; user
++ [Rebuild Python/R Environment on a Offline Host](blogs/t180319204025.md) 2018-03-19 python; R; package; backup; restore; pip; conda
++ [Conda特性说明](blogs/t180319190219.md) 2018-03-19 conda; pip
++ [机器学习的数学基础知识](blogs/t180319185959.md) 2018-03-19 machine learning; math
 + [Python Project and Package Management with pipenv](blogs/t171106121912.md) 2017-11-06 pipenv; python; package
++ [Using Anaconda in Spark](blogs/t180316172658.md) 2018-03-16 anaconda; spark; pyspark; dataframe; pandas
++ [Run SparkR in RStudio](blogs/t180314105946.md) 2018-03-14 SparkR; RStudio; Ubuntu
++ [Install R Packages Offline](blogs/t180313184238.md) 2018-03-13 rlang; package; offline
++ [Build Self-hosted Git Service on Private Host](blogs/t180308171704.md) 2018-03-08 gogs; ubuntu
++ [使用LaTeX编辑文档](blogs/t170218170209.md) 2017-02-18 latex; ubuntu; xetex
++ [Python IDE based on vim](blogs/t170914153911.md) 2017-09-14 python; ide; vim
++ [Default Parameter in Python](blogs/t180226174921.md) 2018-02-26 function; python; parameter
++ [`diff` Function in R base Package](blogs/t180226161815.md) 2018-02-26 difference; function
++ [Install Neovim and Plugins](blogs/t180216154521.md) 2018-02-16 neovim; linux
++ [HDP Notes](blogs/t180213155404.md) 2018-02-13 hortonwork; hadoop; spark
++ [Run Spark on Yarn Cluster](blogs/t180213160311.md) 2018-02-13 spark; yarn; hadoop
++ [Virtual Desktop Tools on Windows](blogs/t120306181852.md) 2012-03-06 virtual desktop; windows
++ [Compile and Install Python 3.5 on CentOS 6.8](blogs/t180209195736.md) 2018-02-09 python; centos; compile
++ [Spark Job Monitor](blogs/t180209181056.md) 2018-02-09 spark; job; monitor
++ [Add GBK Charset on Ubuntu Server](blogs/t140227181853.md) 2014-02-27 charset; GBK; Ubuntu
++ [Change Encoding of R Data Object](blogs/t180203175826.md) 2018-02-03 rlang; encoding
++ [Analysis Relationship between Nominal and Continuous Data](blogs/t180208091932.md) 2018-02-08 statistics; relation; nominal; continuous
++ [Random Variable Distributions in R](blogs/t180207212454.md) 2018-02-07 rlang; distribution
++ [Call Method in Parent Class in Python](blogs/t180205164852.md) 2018-02-05 python; super class; hierarchy
++ [Feature Selection in Machine Learning](blogs/t180203180843.md) 2018-02-03 feature; machine learning
++ [Jupyter Notebook in RStudio-Server Style](blogs/t180203180656.md) 2018-02-03 jupyter; rstudio; notebook
++ [R Notes](blogs/t171221102531.md) 2017-12-21 rlang; R
++ [Octave Notes](blogs/t180203111911.md) 2018-02-03 octave
++ [Arima算法的基本原理](blogs/t180130164944.md) 2018-01-30 arima; time series
++ [Basic Statistics Concepts](blogs/t180129163519.md) 2018-01-29 sd; var; cor; cov
++ [Encoding Categorial Data in Machine Learning](blogs/t180125113924.md) 2018-01-25 category; pandas; rlang
++ [Install xlsx Package for RStudio Server](blogs/t180125161228.md) 2018-01-25 rlang; rstudio; ubuntu
++ [Subversion Command Line Notes](blogs/t130807164139.md) 2013-08-07 command line; svn
++ [Games in Linux Console](blogs/t180124174937.md) 2018-01-24 game; linux; console
++ [Python Unit Test with unittest](blogs/t180124124043.md) 2018-01-24 unittest; python
++ [Estimator, Transformer and Pipeline in Machine Learning](blogs/t180123115600.md) 2018-01-23 estimator; transformer; pipeline; machine learning
++ [Symbolic Integration Tools](blogs/t180119102222.md) 2018-01-19 math; calculus; wolframalpha; sympy; symbolic; integration
++ [Plot Functions](blogs/t180116183051.md) 2018-01-16 rlang; plot; maxima; sage
++ [Read Table Data from MySQL in PySpark](blogs/t180115131925.md) 2018-01-15 pyspark; mysql; jdbc
++ [Fix GUI App Start Failure With No Display Found](blogs/t151025213630.md) 2015-10-25 linux; gui; display
++ [Run GUI Application on Remote Host](blogs/t140625114456.md) 2014-06-25 GUI; remote; xpra
++ [Vagrant Notes](blogs/t140128121803.md) 2014-01-28 vagrant; virtualbox; Linux
++ [WiFi Sniffer Notes](blogs/t180111182604.md) 2018-01-11 wifi; wireless; sniffer
++ [tshark Notes](blogs/t130222162847.md) 2013-02-22 tshark
++ [Linear Regression in R](blogs/t180109163623.md) 2018-01-09 rlang; regression
++ [Format Python Code with autopep8](blogs/t160608191617.md) 2016-06-08 autopep8; pep8; python
++ [PySpark Environment on Ubuntu 16.04](blogs/t180103104530.md) 2018-01-03 pyspark; ubuntu
++ [List Largest Files Recursively in a Folder](blogs/t171230184715.md) 2017-12-30 shell; size; files
++ [Class Inheritance in Python](blogs/t171229113829.md) 2017-12-29 python; class; inheritance
++ [Python常用语句](blogs/t080915173304.md) 2008-09-15 Python
++ [Access Internet with Tor Browser](blogs/t120202174801.md) 2012-02-02 socks5; vidalia; tor; torproject; http; polipo; proxy
++ [Debug Python Script](blogs/t160216212514.md) 2016-02-16 ipdb; pudb; python; ipython
++ [Load Python Module through Relative Path](blogs/t171226155653.md) 2017-12-26 python; module; relative; path
++ [python添加新包的方法](blogs/t101230110743.md) 2010-12-30 Python; package
++ [Python包安装过程](blogs/t120413175442.md) 2012-04-13 python; package
++ [Use Jupyter as Spark Notebook](blogs/t171211124633.md) 2017-12-11 jupyter; spark; toree; scala
++ [Install Applications on Windows with Chocolatey](blogs/t170727183610.md) 2017-07-27 chocolatey; install; windows
++ [Run pyspark on Windows](blogs/t171220175705.md) 2017-12-20 spark; windows; pyspark
++ [Play with POI in Groovysh](blogs/t171218205351.md) 2017-12-18 POI; Groovy
++ [jep Notes](blogs/t130319110903.md) 2013-03-19 jep; Python; Java
++ [使用IntelliJ IDEA开发Spark程序](blogs/t170530072326.md) 2017-05-30 idea; spark
++ [Zeppelin Notes](blogs/t171206114207.md) 2017-12-06 zeppelin; spark; anaconda; pyspark
++ [Neural Network Demo with Keras](blogs/t171209234818.md) 2017-12-09 ann; keras
++ [Debug Scripts in Jupyter Notebook](blogs/t171209234453.md) 2017-12-09 debug; ipdb; jupyter; notebook
++ [GNU Screen Notes](blogs/t170927111550.md) 2017-09-27 screen; Linux
++ [Build Data Analysis Toolkit with Anaconda](blogs/t160615190457.md) 2016-06-15 conda; python; pip; virtualenv; anaconda
++ [使用HeidiSQL合并多个表](blogs/t171128155706.md) 2017-11-28 MySQL; merge; heidisql
 + [Static vs Dynamic](blogs/t171105105223.md) 2017-11-05 static; dynamic; language
++ [Windows 10 Virtual Desktops](blogs/t171122162313.md) 2017-11-22 windows; desktop; workspace
++ [Search String Pattern in Git History](blogs/t151015112116.md) 2015-10-15 git; history; search
++ [Code Metrics Management with Sonar](blogs/t130529183259.md) 2013-05-29 cobertura; JUnit; sonar; not_eaten
++ [Logging for Vert.x Application](blogs/t171115154822.md) 2017-11-15 logging; vertx
++ [Install SDKMan on Windows Git Bash](blogs/t171113180545.md) 2017-11-13 sdkman; windows; git; bash
++ [Sharing Tmux Session between Multiple Users](blogs/t171108111610.md) 2017-11-08 tmux; session; user
 + [VIM命令格式说明](blogs/t100625135711.md) 2010-06-25 Vim
 + [Powerful Application Launcher on Xfce](blogs/t130528113431.md) 2013-05-28 Xfce;exo-open
 + [Note about "Programming in Haskell"](blogs/t131216174627.md) 2013-12-16 Haskell
 + [基于gVim的暗色调翻译写作环境](blogs/t140317163640.md) 2014-03-17 Windows; Puppet; Translate; gVim; PDF
-+ [Screen Notes](blogs/t170927111550.md) 2017-09-27 screen; Linux
 + [Run Emacs as Daemon](blogs/t171030182446.md) 2017-10-30 emacs; daemon; server
 + [Installation of Agilefant & Icescrum](blogs/t121110170839.md) 2012-11-10 agile
 + [Amazon EC2 Notes](blogs/t131025154315.md) 2013-10-25 amazon
@@ -26,7 +94,6 @@ Welcome to Leo's tech blog :)
 + [Notes on Functional Python Programming](blogs/t161117171211.md) 2016-11-17 functional programming; python
 + [Run Vertx App Programmatically](blogs/t170918001656.md) 2017-09-18 vertx; gradle; groovy
 + [Using docker on Windows](blogs/t170915221148.md) 2017-09-15 docker; windows
-+ [Python IDE based on vim](blogs/t170914153911.md) 2017-09-14 python; ide; vim
 + [Convert Git Repo to Subversion Repo](blogs/t170914153345.md) 2017-09-14 git; subversion
 + [Spark Streaming Hello World](blogs/t170914153223.md) 2017-09-14 spark; streaming; centos
 + [scikit-learn的多项式拟合 ](blogs/t170907150435.md) 2017-09-07 scikit-learn; regression
@@ -50,7 +117,6 @@ Welcome to Leo's tech blog :)
 + [Autojump in Windows Console](blogs/t170702124324.md) 2017-07-02 autojump; windows
 + [Build a MySQL Web Management Rest Server with Flask](blogs/t170630152023.md) 2017-06-30 flask; python; mysql; rest; Windows
 + [Transfer Texts between Vim and System Clipboard](blogs/t170530113222.md) 2017-05-30 vi; vim; windows; linux; clipboard
-+ [使用IntelliJ IDEA开发Spark程序](blogs/t170530072326.md) 2017-05-30 idea; spark
 + [Transfer Information between Linux and Windows Hosts](blogs/t170528224050.md) 2017-05-28 linux; windows; transfer
 + [Disable Nautilus Desktop](blogs/t170517141041.md) 2017-05-17 nautilus; desktop; wallpaper
 + [Using scikit-learn & pandas on Spark Cluster](blogs/t170507213857.md) 2017-05-07 sklearn; pandas; spark; python; anaconda; cdh
@@ -71,7 +137,6 @@ Welcome to Leo's tech blog :)
 + [Web Server Benchmarking](blogs/t170227224514.md) 2017-02-27 benchmark; website; concurrency
 + [Cygwin on Windows 10](blogs/t170227181627.md) 2017-02-27 cygwin; windows
 + [Download Jar Files and Dependencies](blogs/t170227164737.md) 2017-02-27 ivy; jar; dependency
-+ [使用LaTeX编辑文档](blogs/t170218170209.md) 2017-02-18 latex; ubuntu; xetex
 + [Ubuntu视频录制](blogs/t170216174259.md) 2017-02-16 screenshot; record; video
 + [Format XML Files in Shell](blogs/t170214100428.md) 2017-02-14 xml; format; shell; indent
 + [Quote, Syntax quote and Unquote in Clojure](blogs/t170208105338.md) 2017-02-08 clojure; macro; quote
@@ -118,9 +183,7 @@ Welcome to Leo's tech blog :)
 + [在vim中执行shell命令的插件](blogs/t160702024310.md) 2016-07-02 vim; plugin; tmux
 + [Loop over Visual Selection in Vim Script](blogs/t160702020329.md) 2016-07-02 vimscript; visual
 + [保存Tmux屏幕输出到文件中](blogs/t160624094511.md) 2016-06-24 tmux; buffer
-+ [Build Data Analysis Toolkit with Anaconda](blogs/t160615190457.md) 2016-06-15 conda; python; pip; virtualenv; anaconda
 + [Backup Hosts on QingCloud Regularly](blogs/t160609002707.md) 2016-06-09 qingcloud; backup
-+ [Format Python Code with autopep8](blogs/t160608191617.md) 2016-06-08 autopep8; pep8; python
 + [用aggregate方法处理MongoDB数据](blogs/t160608092636.md) 2016-06-08 mongodb; aggregate
 + [增强版Python REPL](blogs/t160605081046.md) 2016-06-05 repl; python; bpython; ptpython; ipython
 + [Clojure Linter in Vim](blogs/t160528121437.md) 2016-05-28 clojure; linter; vim
@@ -149,7 +212,6 @@ Welcome to Leo's tech blog :)
 + [Develop Meteor App with TypeScript](blogs/t160221134826.md) 2016-02-21 meteor; typescript
 + [3月6日演讲提纲](blogs/t160221110422.md) 2016-02-21 meteor; startup; fair; web
 + [Merge Multiple PDF Files in Ubuntu](blogs/t160220010838.md) 2016-02-20 pdf; merge; ubuntu
-+ [Debug Python Script](blogs/t160216212514.md) 2016-02-16 ipdb; pudb; python; ipython
 + [Golang Notes](blogs/t160209120142.md) 2016-02-09 golang; linux
 + [Cabal Notes](blogs/t160207103930.md) 2016-02-07 cabal; haskell
 + [Phabricator Notes](blogs/t160203183654.md) 2016-02-03 phabricator
@@ -183,13 +245,11 @@ Welcome to Leo's tech blog :)
 + [Validate Data Defined by Simple-Schema](blogs/t151029080601.md) 2015-10-29 simple-schema; meteor; validate
 + [Play Meteor with Elasticsearch](blogs/t151028102957.md) 2015-10-28 meteor; elasticsearch
 + [Customize Dell Ubuntu Laptop Turn Off Screen and Lock](blogs/t151027120807.md) 2015-10-27 ubuntu; dell; laptop; screen
-+ [Fix GUI App Start Failure With No Display Found](blogs/t151025213630.md) 2015-10-25 linux; gui; display
 + [Git Submodule](blogs/t151025212008.md) 2015-10-25 git; submodule
 + [Elasticsearch Notes](blogs/t151024115416.md) 2015-10-24 elasticsearch; curl; vim
 + [Use Google Font Locally](blogs/t151021133324.md) 2015-10-21 font; website; google
 + [JavaScript Code Folding](blogs/t151019090450.md) 2015-10-19 javascript; folding; vim
 + [Vim Snippet Plugins](blogs/t151017220931.md) 2015-10-17 vim; snippet; plugin
-+ [Search String Pattern in Git History](blogs/t151015112116.md) 2015-10-15 git; history; search
 + [Tab and Session Management in vim](blogs/t151014192323.md) 2015-10-14 vim; tab; session; plugin
 + [Reaction Notes](blogs/t151006122243.md) 2015-10-06 reaction
 + [Meteor Development Environment on Windows](blogs/t151005131004.md) 2015-10-05 vm; linux; Winodws; vagrant; virtualbox
@@ -412,7 +472,6 @@ Welcome to Leo's tech blog :)
 + [Virtual Windows on Xpra](blogs/t140630085736.md) 2014-06-30 xpra; VirtualBox; Windows
 + [CoLinux Failed on Windows](blogs/t140627100720.md) 2014-06-26 colinux; windows
 + [Customize Vim Statusline](blogs/t140626180252.md) 2014-06-26 vim; statusline; customize
-+ [Run GUI Application on Remote Host](blogs/t140625114456.md) 2014-06-25 GUI; remote; xpra
 + [Dual Monitors on Linux](blogs/t140624120847.md) 2014-06-24 dual monitors; xfce; i3
 + [Virtual BVT System](blogs/t140623135000.md) 2014-06-23 sonarqube; jenkins; jdk; ant; java; subversion; vagrant; vm
 + [Awesome on Arch Linux](blogs/t140627101004.md) 2014-06-22 archlinux; awesome; window manager
@@ -503,7 +562,6 @@ Welcome to Leo's tech blog :)
 + [Calculate Command Running Time on Linux](blogs/t140305171901.md) 2014-03-05 time; Linux; timespan
 + [Notes about some Linux Distros](blogs/t140305121707.md) 2014-03-05 Linux; Distro; Gnome; KDE
 + [Start a Service and Wait Until It's Up](blogs/t140303145805.md) 2014-03-03 Linux; Shell; Port; netcat
-+ [Add GBK Charset on Ubuntu Server](blogs/t140227181853.md) 2014-02-27 Charset; GBK; Ubuntu
 + [svn检出文件名中含中文文件失败问题解决方法](blogs/t140227163511.md) 2014-02-27 svn; 中文
 + [Change IP Address of NAT NIC in Vagrant VM](blogs/t140227142307.md) 2014-02-27 NAT; Vagrant; IP
 + [IBus Chinese Pinyin IM on Linux Mint](blogs/t140226162411.md) 2014-02-26 IM; Chinese; ibus
@@ -519,7 +577,6 @@ Welcome to Leo's tech blog :)
 + [Add Custom Fields on Issues of Project in Redmine](blogs/t140213163950.md) 2014-02-13 Redmine; Custom
 + [Compile Flex Source Files in Linux Console](blogs/t140212170729.md) 2014-02-12 flex; Linux; compile
 + [Install Redmine on Virtual Machine with Vagrant](blogs/t140211091423.md) 2014-02-11 Redmine; Vagrant; VirtualBox; Puppet
-+ [Vagrant Notes](blogs/t140128121803.md) 2014-01-28 vagrant; virtualbox; Linux
 + [Create Virtual Network with VirtualBox on Mint 14](blogs/t140127115749.md) 2014-01-27 VirtualBox; Linux Mint; LAN
 + [Build a ZenTao Server on Linux](blogs/t140126154345.md) 2014-01-26 xampp; Linux; ZenTao
 + [View epub and mobi File on Linux](blogs/t140126093914.md) 2014-01-26 calibre; epub; mobi; Linux
@@ -685,7 +742,6 @@ Welcome to Leo's tech blog :)
 + [Build Hadoop Develop Environment](blogs/t130809120651.md) 2013-08-09 JDK;Eclipse;hadoop
 + [Windows上安装Linux后Grub目录中没有Windows启动项的修复方法](blogs/t130809083854.md) 2013-08-09 grub
 + [Solution of Cobertura Exception "touchJump" when Unit Test](blogs/t130808114315.md) 2013-08-08 cobertura;JUnit;Java;unittest
-+ [Subversion Command Line Notes](blogs/t130807164139.md) 2013-08-07 command line; svn
 + [Use ArtifactDeployer Plugin to Publish Product Artifacts](blogs/t130805160413.md) 2013-08-05 jenkins
 + [Jave IDE on Xfce](blogs/t130801182936.md) 2013-08-01 Xfce;IDE;linux;Java
 + [Jenkins Backup and Restore](blogs/t130801133729.md) 2013-08-01 jenkins
@@ -752,7 +808,6 @@ Welcome to Leo's tech blog :)
 + [Note about "Learn You Some Erlang for Great Good"](blogs/t130531133829.md) 2013-05-31 erlang;fold
 + [Multimedia Functions of Mint](blogs/t130530195201.md) 2013-05-30 Mint;multimedia
 + [The essential of HIght Order Functions](blogs/t130530113911.md) 2013-05-30
-+ [Code Metrics Management with Sonar](blogs/t130529183259.md) 2013-05-29 cobertura;JUnit;sonar;not_eaten
 + [Note about Cobertura](blogs/t130529145502.md) 2013-05-29 cobertura;Java
 + [Goagent 3.0.1 on Mint 14](blogs/t130529081941.md) 2013-05-29 linux;Mint;goagent
 + [Unit Test with JUnit and Ant](blogs/t130528185513.md) 2013-05-28 JUnit;classpath;Java;Ant
@@ -816,7 +871,6 @@ Welcome to Leo's tech blog :)
 + [关于依赖倒置原则](blogs/t130320123119.md) 2013-03-20 design pattern
 + [关于职责链模式](blogs/t130320120246.md) 2013-03-20 design pattern;Java
 + [Notes about Jython](blogs/t130319115142.md) 2013-03-19 Jython
-+ [jepp笔记](blogs/t130319110903.md) 2013-03-19 jep;Python;Java
 + [htop笔记](blogs/t130316120857.md) 2013-03-16 htop;linux;top
 + [用于在公网环境下测试的Telnet/SSH服务器](blogs/t130313074059.md) 2013-03-13 telnet;server;ssh
 + [Bluestacks的文件和共享](blogs/t130306203208.md) 2013-03-06 android;bluestacks
@@ -828,7 +882,6 @@ Welcome to Leo's tech blog :)
 + [Java调用外部程序并计算运行时间](blogs/t130228090201.md) 2013-02-28 Java
 + [erlang telnet & ssh client](blogs/t130225135621.md) 2013-02-25 erlang;telnet;ssh
 + [Erlang and OTP in Action 第7章示例](blogs/t130223225118.md) 2013-02-23 erlang
-+ [tshark笔记](blogs/t130222162847.md) 2013-02-22 tshark
 + [网络流量监控工具](blogs/t130221175453.md) 2013-02-21 network; monitor; throughput; linux
 + [用vim制作大报文传输测试文件](blogs/t130221165131.md) 2013-02-21 Vim
 + [Windows上运行gevent的两个示例程序](blogs/t130217212030.md) 2013-02-17 Windows;Python;gevent
@@ -991,7 +1044,6 @@ Welcome to Leo's tech blog :)
 + [egg包使用方法](blogs/t120418102624.md) 2012-04-18 Python
 + [来自Python世界的一篇优秀的异步通信框架博文](blogs/t120417105950.md) 2012-04-17 twisted
 + [Add Multiple jar Files into Classpath](blogs/t120416170053.md) 2012-04-16 Windows;bat;shell;start script
-+ [Python包安装过程](blogs/t120413175442.md) 2012-04-13
 + [Windows日志监测工具选型](blogs/t120410163851.md) 2012-04-10
 + [Java的管道流](blogs/t120409161610.md) 2012-04-09 sshd;PipedOutputStream;Java;PipedInputStream
 + [TextLineCodecFactory笔记](blogs/t120405160720.md) 2012-04-05 TextLineCodecFactory;Mina
@@ -1019,7 +1071,6 @@ Welcome to Leo's tech blog :)
 + [Ldap服务器配置记录](blogs/t120223144902.md) 2012-02-23 ldap
 + [MIT/GNU Scheme 笔记](blogs/t120222170003.md) 2012-02-22 schema
 + [GODU连接SSH网元的日志分析](blogs/t120209140940.md) 2012-02-09 godu
-+ [基于Tor网络的HTTP代理搭建过程](blogs/t120202174801.md) 2012-02-02 socks5;vidalia;tor;http;polipo;proxy
 + [文件夹监控工具比较](blogs/t120201112546.md) 2012-02-01 文件夹; 监控
 + [Building Android Developing Environment with Eclipse](blogs/t120119104202.md) 2012-01-19 Eclipse;android
 + [Experience android developing with Eclipse](blogs/t120119094930.md) 2012-01-19 Eclipse;android
@@ -1186,7 +1237,6 @@ Welcome to Leo's tech blog :)
 + [python中两种拷贝目录方法的比较](blogs/t110104103251.md) 2011-01-04 文件夹;copytree;copy;xcopy;Python
 + [同时发布两种产品的ant脚本](blogs/t101231092310.md) 2010-12-31 Ivy;Ant
 + [python的目录遍历方法说明](blogs/t101230150304.md) 2010-12-30 Python;目录;walk;listdir;遍历
-+ [python添加新包的方法](blogs/t101230110743.md) 2010-12-30 新包;Python
 + [ant流程控制之for语句](blogs/t101229171709.md) 2010-12-29 for;Ant
 + [Run JUnit Test in Command Line](blogs/t101229103501.md) 2010-12-29 JUnit;命令行
 + [在ant脚本中调用另外的ant脚本](blogs/t101228155925.md) 2010-12-28 调用;Ant
@@ -1308,7 +1358,6 @@ Welcome to Leo's tech blog :)
 + [自制旅游DV电影的流程](blogs/t090111214659.md) 2009-01-11 旅游;CyberLink;DV
 + [使用Elsevier的Latex模板投稿](blogs/t081117101355.md) 2008-11-17 latex
 + [Word中生成目录格式的VBA代码](blogs/t081012091134.md) 2008-10-12 VBA;目录;格式;MS Word
-+ [Python常用语句](blogs/t080915173304.md) 2008-09-15 Python
 + [Word排版笔记](blogs/t080109095634.md) 2008-01-09 MS Word;排版
 + [如何用MathType生成Latex方程](blogs/t071206102217.md) 2007-12-06 mathtype;latex
 + [Ultraedit使用笔记](blogs/t071126093913.md) 2007-11-26 UltraEdit
