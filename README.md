@@ -2,6 +2,12 @@ Welcome to Leo's tech blog :)
 
 # Table of Contents
 
++ [Share Files without Servers](blogs/t180330113539.md) 2018-03-30 p2p; syncthing
++ [Using R in Python](blogs/t180329181249.md) 2018-03-29 rlang; python; rpy2
++ [R Notes](blogs/t171221102531.md) 2017-12-21 rlang; R
++ [Install Neovim and Plugins](blogs/t180216154521.md) 2018-02-16 neovim; linux
++ [Jupyter Notebook in RStudio-Server Style](blogs/t180203180656.md) 2018-02-03 jupyter; rstudio; notebook; systemd
++ [Build Self-hosted Git Service on Private Host](blogs/t180308171704.md) 2018-03-08 gogs; ubuntu
 + [Rebuild Python/R Environment on a Offline Host](blogs/t180319204025.md) 2018-03-19 python; R; package; backup; restore; pip; conda
 + [Conda特性说明](blogs/t180319190219.md) 2018-03-19 conda; pip
 + [机器学习的数学基础知识](blogs/t180319185959.md) 2018-03-19 machine learning; math
@@ -9,12 +15,10 @@ Welcome to Leo's tech blog :)
 + [Using Anaconda in Spark](blogs/t180316172658.md) 2018-03-16 anaconda; spark; pyspark; dataframe; pandas
 + [Run SparkR in RStudio](blogs/t180314105946.md) 2018-03-14 SparkR; RStudio; Ubuntu
 + [Install R Packages Offline](blogs/t180313184238.md) 2018-03-13 rlang; package; offline
-+ [Build Self-hosted Git Service on Private Host](blogs/t180308171704.md) 2018-03-08 gogs; ubuntu
 + [使用LaTeX编辑文档](blogs/t170218170209.md) 2017-02-18 latex; ubuntu; xetex
 + [Python IDE based on vim](blogs/t170914153911.md) 2017-09-14 python; ide; vim
 + [Default Parameter in Python](blogs/t180226174921.md) 2018-02-26 function; python; parameter
 + [`diff` Function in R base Package](blogs/t180226161815.md) 2018-02-26 difference; function
-+ [Install Neovim and Plugins](blogs/t180216154521.md) 2018-02-16 neovim; linux
 + [HDP Notes](blogs/t180213155404.md) 2018-02-13 hortonwork; hadoop; spark
 + [Run Spark on Yarn Cluster](blogs/t180213160311.md) 2018-02-13 spark; yarn; hadoop
 + [Virtual Desktop Tools on Windows](blogs/t120306181852.md) 2012-03-06 virtual desktop; windows
@@ -26,8 +30,6 @@ Welcome to Leo's tech blog :)
 + [Random Variable Distributions in R](blogs/t180207212454.md) 2018-02-07 rlang; distribution
 + [Call Method in Parent Class in Python](blogs/t180205164852.md) 2018-02-05 python; super class; hierarchy
 + [Feature Selection in Machine Learning](blogs/t180203180843.md) 2018-02-03 feature; machine learning
-+ [Jupyter Notebook in RStudio-Server Style](blogs/t180203180656.md) 2018-02-03 jupyter; rstudio; notebook
-+ [R Notes](blogs/t171221102531.md) 2017-12-21 rlang; R
 + [Octave Notes](blogs/t180203111911.md) 2018-02-03 octave
 + [Arima算法的基本原理](blogs/t180130164944.md) 2018-01-30 arima; time series
 + [Basic Statistics Concepts](blogs/t180129163519.md) 2018-01-29 sd; var; cor; cov
